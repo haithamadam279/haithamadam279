@@ -10,9 +10,6 @@ I’m currently studying **Flutter & Dart**, and I’ve just finished my **Conta
 ---
 
 ## 🌱 Currently Learning
-- Riverpod state management  
-- Automated testing & CI/CD  
-
 ---
 
 ## 📫 Connect with me
