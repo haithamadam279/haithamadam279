@@ -29,10 +29,15 @@
 
 ## 🛠️ Technologies I Use
 
-- **Languages**: Dart, JavaScript (basic)
-- **Frameworks**: Flutter
-- **Tools**: Git, GitHub, Android Studio, VS Code
-- **UI Design**: Figma (prototyping)
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ---
 
@@ -40,7 +45,7 @@
 
 - 📧 Email: **haithamadam279@gmail.com**
 - 🐙 GitHub: [@haithamadam279](https://github.com/haithamadam279)
-- 💼 LinkedIn: *(add your LinkedIn link if you have one)*
+- 💼 LinkedIn: [https://www.linkedin.com/in/haitham-adam-7659292aa/]
 
 ---
 
@@ -54,4 +59,3 @@
 ---
 
 > 🧠 *"Keep coding. Build daily. Learn constantly."*
-
