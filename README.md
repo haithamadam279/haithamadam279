@@ -45,7 +45,7 @@
 
 - 📧 Email: **haithamadam279@gmail.com**
 - 🐙 GitHub: [@haithamadam279](https://github.com/haithamadam279)
-- 💼 LinkedIn: [https://www.linkedin.com/in/haitham-adam-7659292aa/]
+- 💼 LinkedIn: https://www.linkedin.com/in/haitham-adam-7659292aa
 
 ---
 
