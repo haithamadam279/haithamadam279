@@ -22,7 +22,7 @@
 | Project Name | Description | Link |
 |--------------|-------------|------|
 | **Contact App** | A Flutter app to view, edit, and manage contacts with clean UI. | [🔗 View Repo](https://github.com/haithamadam279/contact-app-project) |
-| **X-O Game** | Simple two-player Tic Tac Toe game with interactive UI. | [🔗 View Repo](https://github.com/haithamadam279/x_o_game) |
+| **X-O Game** | Simple two-player Tic Tac Toe game with interactive UI. | [🔗 View Repo](https://github.com/haithamadam279/x_o_game/tree/master) |
 | **Calculator** | Basic calculator app built with Flutter UI components. | [🔗 View Repo](https://github.com/haithamadam279/calculator_project) |
 
 ---
